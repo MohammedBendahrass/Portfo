@@ -6,9 +6,9 @@
 Welcome to my portfolio! I specialize in IT security, data analytics, and advanced cybersecurity techniques. This repository showcases my projects, skills, and experiences in cybersecurity and Big Data.
 
 # 🎓 Education
-Master’s in IT Security & Big Data (2024) – Faculty of Science and Technology, Tangier
-Bachelor’s in Computer Science and Engineering (2023)
-DEUST in Math, Informatics, Physics, and Chemistry (2022)
+  - Master’s in IT Security & Big Data (2024) – Faculty of Science and Technology, Tangier
+  - Bachelor’s in Computer Science and Engineering (2023)
+  - DEUST in Math, Informatics, Physics, and Chemistry (2022)
 
 
 # Objective
