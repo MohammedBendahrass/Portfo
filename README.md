@@ -1,5 +1,5 @@
 # Hi, I'm BENDAHRASS Mohammed
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mohammed-bendahrass-3b7328245/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 # 📍 Master's Student in IT Security & Big Data | Passionate Cybersecurity Enthusiast
 
@@ -63,4 +63,3 @@ To leverage my expertise in cybersecurity, Big Data, and advanced virtualization
 # 📬 Contact Me
   - Email: [Mohammed Bendahrass](mohammedbendahrass@gmail.com)
   - LinkedIn: [Mohammed Bendahrass](https://www.linkedin.com/in/mohammed-bendahrass-3b7328245/)
-  - 
